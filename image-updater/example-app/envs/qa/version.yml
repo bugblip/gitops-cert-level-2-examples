@@ -7,5 +7,5 @@ spec:
   template:
     spec:
       containers:
-      - name: webserver-simple
-        image: ghcr.io/codefresh-contrib/gitops-cert-level-2-examples:1.0
+      - name: main
+        image: ghcr.io/bugblip/gitops-cert-level-2-examples:1.0
